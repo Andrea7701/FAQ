@@ -6,11 +6,6 @@ A simple FAQ projects made in ReactJS and styled in CSS
 
 ![Faq](https://github.com/Andrea7701/FAQ/assets/156012853/74a7f786-e616-476a-b449-735bd51eb689)
 
-
-# Live Deployment
-
-
-
 # Built With 
  - ReactJs;
  - Css;
