@@ -1,6 +1,6 @@
 # FAQ
 
-A simple FAQ projects made in ReactJS and styled in CSS
+A sample of a FAQ box made in ReactJS and styled in CSS
 
 # Screenshoot
 
